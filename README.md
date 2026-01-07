@@ -1,6 +1,5 @@
 # 🤞 KIM JUN YOUNG
 [//]: #[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6-n0kim%2Fintroduce&count_bg=%2379C83D&title_bg=%23A85555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6-n0kim&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1090jun)](https://solved.ac/1090jun/)
 
 # 🕹 Skills 
