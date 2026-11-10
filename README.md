@@ -1,54 +1,119 @@
 <div align="center">
 
-<!-- 1. Hero Banner -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Kim Jun Young — AI Developer"></picture>
+<!-- 1. 히어로 배너 (Hero Banner) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Junyong Kim — Full-Stack · AI Developer">
+</picture>
 
-<!-- 2. Contacts / Badges -->
-<a href="mailto:1090jun@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-gmail-dark.svg"><img src="contact-gmail-light.svg" width="42%" alt="Gmail"></picture></a>&nbsp;&nbsp;<a href="mailto:1090jun@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-naver-dark.svg"><img src="contact-naver-light.svg" width="42%" alt="Naver Mail"></picture></a>
+<!-- 2. 연락처 배지 (Contacts / Badges) -->
+<a href="mailto:1090jun@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="contact-gmail-dark.svg">
+    <img src="contact-gmail-light.svg" width="42%" alt="Gmail 문의">
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:1090jun@naver.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="contact-naver-dark.svg">
+    <img src="contact-naver-light.svg" width="42%" alt="네이버 메일">
+  </picture>
+</a>
 
-<!-- 3. About Me -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-about-dark.svg"><img src="./profile-assets/premium-about-light.svg" width="100%" alt="About Me"></picture>
+<!-- 3. 소개 섹션 (About Me) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-about-dark.svg">
+  <img src="./profile-assets/premium-about-light.svg" width="100%" alt="소개 (About Me)">
+</picture>
 
-<!-- 4. GitHub Stats -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub Analytics"></picture>
+<!-- 4. 깃허브 통계 (GitHub Stats) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="GitHub Analytics">
+</picture>
 
-<!-- 5. Contribution Streak -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Contribution Streak"></picture>
+<!-- 5. 연속 커밋 잔디 (Contribution Streak) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+  <img src="assets/streak-light.svg" width="100%" alt="Contribution Streak">
+</picture>
 
-<!-- 6. Tech Stack -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./tech-stack-dark.svg"><img src="./tech-stack-light.svg" width="100%" alt="Tech Stack"></picture>
+<!-- 6. 기술 스택 (Tech Stack) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./tech-stack-dark.svg">
+  <img src="./tech-stack-light.svg" width="100%" alt="기술 스택 (Tech Stack)">
+</picture>
 
-<!-- 7. What I Bring -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-bring-dark.svg"><img src="./profile-assets/premium-bring-light.svg" width="100%" alt="What I Bring"></picture>
+<!-- 7. 핵심 역량 (What I Bring) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-bring-dark.svg">
+  <img src="./profile-assets/premium-bring-light.svg" width="100%" alt="핵심 역량 (What I Bring)">
+</picture>
 
-<!-- 8. Professional Focus -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-focus-dark.svg"><img src="./profile-assets/premium-focus-light.svg" width="100%" alt="Professional Focus"></picture>
+<!-- 8. 전문 분야 & 관심사 (Professional Focus) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-focus-dark.svg">
+  <img src="./profile-assets/premium-focus-light.svg" width="100%" alt="전문 분야 (Professional Focus)">
+</picture>
 
-<!-- 9. Connect With Me -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-connect-dark.svg"><img src="./profile-assets/premium-connect-light.svg" width="100%" alt="Connect With Me"></picture>
+<!-- 9. 연락처 채널 (Connect With Me) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-connect-dark.svg">
+  <img src="./profile-assets/premium-connect-light.svg" width="100%" alt="연락처 &amp; 채널 (Connect With Me)">
+</picture>
 
-<!-- 10. Open to Opportunities -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-opportunities-dark.svg"><img src="./profile-assets/premium-opportunities-light.svg" width="100%" alt="Open to Opportunities"></picture>
+<!-- 10. 협업 & 기회 (Open to Opportunities) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-opportunities-dark.svg">
+  <img src="./profile-assets/premium-opportunities-light.svg" width="100%" alt="협업 &amp; 기회 (Open to Opportunities)">
+</picture>
 
-<!-- 11. Profile Visits -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-visitor-counter-dark.svg"><img src="./profile-assets/premium-visitor-counter-light.svg" width="100%" alt="Live Profile Visits"></picture>
-<img src="https://komarev.com/ghpvc/?username=6-n0kim&amp;label=VISITORS&amp;color=00D9FF&amp;style=for-the-badge" alt="Live GitHub profile visitor counter">
+<!-- 11. 프로필 방문자 수 (Profile Visits) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-visitor-counter-dark.svg">
+  <img src="./profile-assets/premium-visitor-counter-light.svg" width="100%" alt="방문자 수 (Profile Visits)">
+</picture>
+<img src="https://komarev.com/ghpvc/?username=6-n0kim&amp;label=VISITORS&amp;color=00D9FF&amp;style=for-the-badge" alt="실시간 방문자 수">
 
 </div>
 
 <div align="center">
-<!-- 12. Quick Action Links -->
-<a href="https://github.com/6-n0kim?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-repositories-dark.svg"><img src="./profile-assets/premium-repositories-light.svg" width="31%" alt="All Repositories"></picture></a>
+
+<!-- 12. 바로가기 링크 버튼 (Quick Action Links) -->
+<a href="https://github.com/6-n0kim?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-repositories-dark.svg">
+    <img src="./profile-assets/premium-repositories-light.svg" width="31%" alt="전체 레포지토리">
+  </picture>
+</a>
 &nbsp;
-<a href="https://6-n0kim.github.io/capy"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-portfolio-dark.svg"><img src="./profile-assets/premium-portfolio-light.svg" width="31%" alt="Portfolio"></picture></a>
+<a href="https://6-n0kim.github.io/capy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-portfolio-dark.svg">
+    <img src="./profile-assets/premium-portfolio-light.svg" width="31%" alt="포트폴리오">
+  </picture>
+</a>
 &nbsp;
-<a href="https://solved.ac/1090jun/"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-solvedac-dark.svg"><img src="./profile-assets/premium-solvedac-light.svg" width="31%" alt="Solved.ac Profile"></picture></a>
+<a href="https://solved.ac/1090jun/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-solvedac-dark.svg">
+    <img src="./profile-assets/premium-solvedac-light.svg" width="31%" alt="Solved.ac 프로필">
+  </picture>
+</a>
+
 </div>
 
 <div align="center">
-<p align="center">
-  <a href="https://solved.ac/1090jun/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1090jun" alt="Solved.ac Profile" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://solved.ac/1090jun/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1090jun" alt="Solved.ac 티어 뱃지" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Design inspired by <a href="https://github.com/ryoaonetsuki">@ryoaonetsuki</a></sub>
 </div>

@@ -3,5 +3,5 @@
   <g transform="translate(48 38)">
     <path d="M-12-14h16l7 7v21h-23zM4-14v8h7M-7-2h13M-7 4h13M-7 10h9" fill="none" stroke="#004e5d" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
-  <text x="190" y="47" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#004e5d">All Repositories</text>
+  <text x="190" y="46" text-anchor="middle" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="20" font-weight="700" fill="#004e5d">전체 레포지토리</text>
 </svg>

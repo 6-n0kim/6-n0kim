@@ -1,33 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="514" viewBox="0 0 840 514">
-  <rect x="2" y="2" width="836" height="510" rx="28" fill="#eff4f7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="562" viewBox="0 0 840 562">
+  <rect x="2" y="2" width="836" height="558" rx="28" fill="#eff4f7"/>
   <circle cx="48" cy="47" r="19" fill="#cee7ef"/>
   <g transform="translate(48 47)">
     <circle r="14" fill="none" stroke="#004e5d" stroke-width="2.5"/><circle r="7" fill="none" stroke="#004e5d" stroke-width="2.5"/><circle r="2.5" fill="#004e5d"/>
   </g>
-  <text x="80" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#171c1e">Professional Focus</text>
-  <text x="30" y="82" font-family="Arial,sans-serif" font-size="13" fill="#52616a">I enjoy working on projects involving</text>
+  <text x="80" y="54" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="24" font-weight="700" fill="#171c1e">전문 분야 & 관심사 (Professional Focus)</text>
+  <text x="30" y="82" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" fill="#52616a">이러한 프로젝트와 기술 분야에 열정을 쏟고 있습니다</text>
   <rect x="28" y="104" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="123" r="4.5" fill="#004e5d"/>
-  <text x="69" y="129" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Enterprise web applications and scalable backend systems</text>
+  <text x="69" y="129" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">엔터프라이즈 풀스택 웹 애플리케이션 및 SaaS 플랫폼 개발</text>
   <rect x="28" y="152" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="171" r="4.5" fill="#004e5d"/>
-  <text x="69" y="177" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">RESTful API development, data security and authentication workflows</text>
+  <text x="69" y="177" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">생성형 AI 모델 및 최신 LLM API를 접목한 지능형 서비스 구현</text>
   <rect x="28" y="200" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="219" r="4.5" fill="#004e5d"/>
-  <text x="69" y="225" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Relational database modeling, query tuning and data integrity</text>
+  <text x="69" y="225" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">AI 보조 개발, 프롬프트 엔지니어링 및 개발 워크플로우 자동화</text>
   <rect x="28" y="248" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="267" r="4.5" fill="#004e5d"/>
-  <text x="69" y="273" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Microservice architecture and modular backend system design</text>
+  <text x="69" y="273" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">안전하고 확장 가능한 RESTful API 설계 및 인증/보안 아키텍처</text>
   <rect x="28" y="296" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="315" r="4.5" fill="#004e5d"/>
-  <text x="69" y="321" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Containerized environments using Docker and orchestration with Kubernetes</text>
+  <text x="69" y="321" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">관리자 대시보드, 업무 자동화 도구 및 실무 중심의 생산성 프로덕트</text>
   <rect x="28" y="344" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="363" r="4.5" fill="#004e5d"/>
-  <text x="69" y="369" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Algorithmic optimization, code refactoring and performance improvement</text>
+  <text x="69" y="369" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">데이터베이스 튜닝, 쿼리 최적화 및 안정적인 데이터 파이프라인 구축</text>
   <rect x="28" y="392" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="411" r="4.5" fill="#004e5d"/>
-  <text x="69" y="417" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Interactive web applications with React and modern JavaScript</text>
+  <text x="69" y="417" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">Docker 및 Kubernetes를 활용한 컨테이너 가상화와 마이크로서비스 설계</text>
   <rect x="28" y="440" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="459" r="4.5" fill="#004e5d"/>
-  <text x="69" y="465" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Continuous learning, tech exploration and open-source collaboration</text>
+  <text x="69" y="465" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">React 및 모던 웹 기술을 활용한 반응형 프론트엔드 인터페이스 개발</text>
+  <rect x="28" y="488" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="507" r="4.5" fill="#004e5d"/>
+  <text x="69" y="513" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">새로운 기술 연구, 오픈소스 기여 및 바이브 코딩(Vibe Coding) 실천</text>
 </svg>

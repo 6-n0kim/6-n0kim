@@ -19,23 +19,23 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Backend Developer",
-    "name": "Kim Jun Young",
-    "subtitle": "I build reliable backend systems, web applications and scalable services.",
+    "greeting": "Full-Stack · AI Developer",
+    "name": "Junyong Kim",
+    "subtitle": "풀스택 웹 애플리케이션과 AI 기반 도구를 개발합니다.",
     "typing": true,
     "avatarShape": "rounded",
     "chips": [
       {
         "icon": "location_on",
-        "label": "SOUTH KOREA"
+        "label": "대한민국 (KOREA)"
       },
       {
         "icon": "code",
-        "label": "Java · Spring Boot · Backend"
+        "label": "Full-Stack · AI Development"
       },
       {
         "icon": "handshake",
-        "label": "Open to Opportunities"
+        "label": "프로젝트 협업 환영"
       }
     ]
   },
@@ -55,31 +55,31 @@
     "card": true
   },
   "about": {
-    "title": "About Me",
+    "title": "소개 (About Me)",
     "items": [
       {
         "icon": "person",
-        "label": "Backend developer passionate about scalable architecture and clean code"
+        "label": "아이디어를 실현 가능한 풀스택 웹 애플리케이션과 AI 프로덕트로 개발합니다."
       },
       {
         "icon": "code",
-        "label": "Solid foundation in Java, Spring Boot, JPA, MySQL and Oracle DB"
+        "label": "Java, Spring Boot 백엔드 및 React, JavaScript 프론트엔드 풀스택 역량"
+      },
+      {
+        "icon": "auto_awesome",
+        "label": "AI 보조 개발(AI-Assisted Dev), 프롬프트 엔지니어링 및 빠른 프로토타이핑"
       },
       {
         "icon": "terminal",
-        "label": "Practicing problem solving on Baekjoon Online Judge & Solved.ac (@1090jun)"
-      },
-      {
-        "icon": "deployed_code",
-        "label": "Studying cloud and container orchestration with Docker & Kubernetes"
+        "label": "백준(BOJ) 및 Solved.ac(@1090jun) 알고리즘 문제 해결 훈련"
       }
     ]
   },
   "stack": {
-    "title": "Tech Stack",
+    "title": "기술 스택 (Tech Stack)",
     "groups": [
       {
-        "title": "Backend",
+        "title": "백엔드 (Backend)",
         "items": [
           {
             "icon": "openjdk",
@@ -96,7 +96,7 @@
         ]
       },
       {
-        "title": "Frontend",
+        "title": "프론트엔드 (Frontend)",
         "items": [
           {
             "icon": "brand:js",
@@ -117,7 +117,7 @@
         ]
       },
       {
-        "title": "Database",
+        "title": "데이터베이스 (Database)",
         "items": [
           {
             "icon": "brand:mysql",
@@ -134,15 +134,15 @@
         ]
       },
       {
-        "title": "DevOps & Tools",
+        "title": "인공지능 & 도구 (AI & Tools)",
         "items": [
+          {
+            "icon": "auto_awesome",
+            "label": "AI-Assisted Dev"
+          },
           {
             "icon": "brand:docker",
             "label": "Docker"
-          },
-          {
-            "icon": "brand:kubernetes",
-            "label": "Kubernetes"
           },
           {
             "icon": "brand:git",
@@ -164,7 +164,7 @@
     "fork": "Fork"
   },
   "stats": {
-    "title": "GitHub Analytics",
+    "title": "GitHub 통계 (GitHub Analytics)",
     "stars": "Stars earned",
     "contributions": "Contributions this year",
     "repos": "Public repos",
@@ -175,7 +175,7 @@
     "showLanguages": true
   },
   "streak": {
-    "title": "Contribution Streak",
+    "title": "연속 커밋 (Contribution Streak)",
     "current": "Current streak",
     "longest": "Longest this year",
     "days": "days"
@@ -184,13 +184,13 @@
     "items": [
       {
         "icon": "book_2",
-        "label": "All Repositories",
+        "label": "전체 레포지토리",
         "url": "https://github.com/6-n0kim?tab=repositories",
         "style": "tonal"
       },
       {
         "icon": "arrow_outward",
-        "label": "Portfolio",
+        "label": "포트폴리오",
         "url": "https://6-n0kim.github.io/capy",
         "style": "tonal"
       }

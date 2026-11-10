@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="88" viewBox="0 0 340 88" role="img" aria-label="Naver: 1090jun">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="88" viewBox="0 0 340 88" role="img" aria-label="네이버 메일 (1090jun)">
   <rect x="6" y="8" width="328" height="72" rx="36" fill="#315057"/>
   <circle cx="48" cy="44" r="23" fill="#004e5d"/>
   <g transform="translate(48 44)">
     <path d="M-10 10V-10h6l8 12V-10h6V10h-6l-8-12v12z" fill="#d7f5ff"/>
   </g>
-  <text x="84" y="52" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#d7f5ff">Naver: 1090jun</text>
+  <text x="84" y="51" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="19" font-weight="700" fill="#d7f5ff">네이버 메일 (1090jun)</text>
 </svg>
