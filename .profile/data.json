@@ -1,0 +1,502 @@
+{
+ "key": "5b8f329e",
+ "stars": 5,
+ "contributions": 104,
+ "repos": 34,
+ "followers": 3,
+ "languages": [
+  [
+   "HTML",
+   938324
+  ],
+  [
+   "Java",
+   625001
+  ],
+  [
+   "JavaScript",
+   396368
+  ],
+  [
+   "CSS",
+   288179
+  ],
+  [
+   "TypeScript",
+   209291
+  ],
+  [
+   "Python",
+   96875
+  ],
+  [
+   "PLpgSQL",
+   3422
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 10,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "bodymanager_server_real",
+   "url": "https://github.com/jeongeunni/bodymanager_server_real",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Body_Manager_server",
+   "url": "https://github.com/snowone4426/Body_Manager_server",
+   "text": "final project",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "on_spot",
+   "url": "https://github.com/6-n0kim/on_spot",
+   "text": "mini solo project",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "BaekJoon",
+   "url": "https://github.com/6-n0kim/BaekJoon",
+   "text": "This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "docker-pro",
+   "url": "https://github.com/6-n0kim/docker-pro",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "lol.gg",
+   "url": "https://github.com/6-n0kim/lol.gg",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "AIgo_BACKEND",
+   "url": "https://github.com/6-n0kim/AIgo_BACKEND",
+   "text": "나의 AI공부를 위한 작은 프로젝트",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "AIgo_FRONTEND",
+   "url": "https://github.com/6-n0kim/AIgo_FRONTEND",
+   "text": "나의 AI공부를 위한 작은 프로젝트",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "lol.gg",
+   "url": "https://github.com/6-n0kim/lol.gg",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "docker-pro",
+   "url": "https://github.com/6-n0kim/docker-pro",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "BaekJoon",
+   "url": "https://github.com/6-n0kim/BaekJoon",
+   "text": "This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "on_spot",
+   "url": "https://github.com/6-n0kim/on_spot",
+   "text": "mini solo project",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "GitBook",
+   "url": "https://github.com/6-n0kim/GitBook",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "stock_test",
+   "url": "https://github.com/6-n0kim/stock_test",
+   "text": "한국 상장 주식 분석 웹 서비스(테스트)",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "news",
+   "url": "https://github.com/6-n0kim/news",
+   "text": "?",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "JaneJase_BACKEND",
+   "url": "https://github.com/6-n0kim/JaneJase_BACKEND",
+   "text": "웹캠 기반 자세교정 프로젝트",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "JaneJase_FRONTEND",
+   "url": "https://github.com/6-n0kim/JaneJase_FRONTEND",
+   "text": "웹캠 기반 자세교정 프로젝트",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "api_server_codelab",
+   "url": "https://github.com/6-n0kim/api_server_codelab",
+   "text": "codelab google cloud server 연동",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "InPick_FRONTEND",
+   "url": "https://github.com/6-n0kim/InPick_FRONTEND",
+   "text": "AICC6 3차 InPick_FRONTEND(react + vite + typescript)",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "InPick_BACKEND",
+   "url": "https://github.com/6-n0kim/InPick_BACKEND",
+   "text": "AICC6 3차 InPick_BACKEND(fastAPI)",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Body_Manager_client",
+   "url": "https://github.com/6-n0kim/Body_Manager_client",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "docgen-fastapi",
+   "url": "https://github.com/6-n0kim/docgen-fastapi",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "docgen-backend",
+   "url": "https://github.com/6-n0kim/docgen-backend",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "docgen-frontend",
+   "url": "https://github.com/6-n0kim/docgen-frontend",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "FIT_HARMONY_BACK",
+   "url": "https://github.com/6-n0kim/FIT_HARMONY_BACK",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "FIT_HARMONY_FRONT",
+   "url": "https://github.com/6-n0kim/FIT_HARMONY_FRONT",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "bodymanager_server",
+   "url": "https://github.com/6-n0kim/bodymanager_server",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "aicc6_col_test",
+   "url": "https://github.com/6-n0kim/aicc6_col_test",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TYPESCRIPT_tuto",
+   "url": "https://github.com/6-n0kim/TYPESCRIPT_tuto",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "agent_chat_back",
+   "url": "https://github.com/6-n0kim/agent_chat_back",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "python_tuto",
+   "url": "https://github.com/6-n0kim/python_tuto",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "aicc6_deploy_front",
+   "url": "https://github.com/6-n0kim/aicc6_deploy_front",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "aicc6_deploy_back",
+   "url": "https://github.com/6-n0kim/aicc6_deploy_back",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "aicc6_node",
+   "url": "https://github.com/6-n0kim/aicc6_node",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "react",
+   "url": "https://github.com/6-n0kim/react",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "codelab",
+   "url": "https://github.com/6-n0kim/codelab",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "capy",
+   "url": "https://github.com/6-n0kim/capy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "6-n0kim",
+   "url": "https://github.com/6-n0kim/6-n0kim",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "springex",
+   "url": "https://github.com/6-n0kim/springex",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "introduce",
+   "url": "https://github.com/6-n0kim/introduce",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
