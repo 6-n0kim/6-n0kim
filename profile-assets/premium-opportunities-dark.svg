@@ -4,7 +4,7 @@
   <g transform="translate(48 47)">
     <rect x="-15" y="-8" width="30" height="21" rx="3" fill="none" stroke="#aeecff" stroke-width="2.5"/><path d="M-7-8v-5h14v5M-15 0h30M-3 0v4h6V0" fill="none" stroke="#aeecff" stroke-width="2.5"/>
   </g>
-  <text x="80" y="54" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="24" font-weight="700" fill="#dee3e6">협업 & 기회 (Open to Opportunities)</text>
+  <text x="80" y="54" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="24" font-weight="700" fill="#dee3e6">협업 &amp; 기회 (Open to Opportunities)</text>
   <text x="30" y="82" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" fill="#aab7bd">프로젝트 및 개발 협업 제안에 항상 열려 있습니다</text>
   <rect x="28" y="104" width="784" height="38" rx="12" fill="#252b2d"/>
   <circle cx="51" cy="123" r="4.5" fill="#aeecff"/>
