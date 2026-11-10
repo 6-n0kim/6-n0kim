@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="514" viewBox="0 0 840 514">
+  <rect x="2" y="2" width="836" height="510" rx="28" fill="#171c1e"/>
+  <circle cx="48" cy="47" r="19" fill="#004e5d"/>
+  <g transform="translate(48 47)">
+    <circle r="14" fill="none" stroke="#aeecff" stroke-width="2.5"/><circle r="7" fill="none" stroke="#aeecff" stroke-width="2.5"/><circle r="2.5" fill="#aeecff"/>
+  </g>
+  <text x="80" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#dee3e6">Professional Focus</text>
+  <text x="30" y="82" font-family="Arial,sans-serif" font-size="13" fill="#aab7bd">I enjoy working on projects involving</text>
+  <rect x="28" y="104" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="123" r="4.5" fill="#aeecff"/>
+  <text x="69" y="129" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Enterprise web applications and scalable backend systems</text>
+  <rect x="28" y="152" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="171" r="4.5" fill="#aeecff"/>
+  <text x="69" y="177" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">RESTful API development, data security and authentication workflows</text>
+  <rect x="28" y="200" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="219" r="4.5" fill="#aeecff"/>
+  <text x="69" y="225" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Relational database modeling, query tuning and data integrity</text>
+  <rect x="28" y="248" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="267" r="4.5" fill="#aeecff"/>
+  <text x="69" y="273" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Microservice architecture and modular backend system design</text>
+  <rect x="28" y="296" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="315" r="4.5" fill="#aeecff"/>
+  <text x="69" y="321" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Containerized environments using Docker and orchestration with Kubernetes</text>
+  <rect x="28" y="344" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="363" r="4.5" fill="#aeecff"/>
+  <text x="69" y="369" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Algorithmic optimization, code refactoring and performance improvement</text>
+  <rect x="28" y="392" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="411" r="4.5" fill="#aeecff"/>
+  <text x="69" y="417" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Interactive web applications with React and modern JavaScript</text>
+  <rect x="28" y="440" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="459" r="4.5" fill="#aeecff"/>
+  <text x="69" y="465" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Continuous learning, tech exploration and open-source collaboration</text>
+</svg>

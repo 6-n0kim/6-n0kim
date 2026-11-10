@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="88" viewBox="0 0 340 88" role="img" aria-label="Naver: 1090jun">
+  <rect x="6" y="8" width="328" height="72" rx="36" fill="#cee7ef"/>
+  <circle cx="48" cy="44" r="23" fill="#cee7ef"/>
+  <g transform="translate(48 44)">
+    <path d="M-10 10V-10h6l8 12V-10h6V10h-6l-8-12v12z" fill="#004e5d"/>
+  </g>
+  <text x="84" y="52" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#004e5d">Naver: 1090jun</text>
+</svg>

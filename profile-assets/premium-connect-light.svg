@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="370" viewBox="0 0 840 370">
+  <rect x="2" y="2" width="836" height="366" rx="28" fill="#eff4f7"/>
+  <circle cx="48" cy="47" r="19" fill="#cee7ef"/>
+  <g transform="translate(48 47)">
+    <path d="M-15-11h30v20H2l-8 7v-7h-9z" fill="none" stroke="#004e5d" stroke-width="2.5" stroke-linejoin="round"/><circle cx="-7" cy="-1" r="1.5" fill="#004e5d"/><circle cx="0" cy="-1" r="1.5" fill="#004e5d"/><circle cx="7" cy="-1" r="1.5" fill="#004e5d"/>
+  </g>
+  <text x="80" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#171c1e">Connect With Me</text>
+  <text x="30" y="82" font-family="Arial,sans-serif" font-size="13" fill="#52616a">Let’s build something useful together</text>
+  <rect x="28" y="104" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="123" r="4.5" fill="#004e5d"/>
+  <text x="69" y="129" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Gmail: 1090jun@gmail.com</text>
+  <rect x="28" y="152" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="171" r="4.5" fill="#004e5d"/>
+  <text x="69" y="177" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Naver Mail: 1090jun@naver.com</text>
+  <rect x="28" y="200" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="219" r="4.5" fill="#004e5d"/>
+  <text x="69" y="225" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">GitHub: github.com/6-n0kim</text>
+  <rect x="28" y="248" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="267" r="4.5" fill="#004e5d"/>
+  <text x="69" y="273" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Solved.ac: solved.ac/1090jun</text>
+  <rect x="28" y="296" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="315" r="4.5" fill="#004e5d"/>
+  <text x="69" y="321" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Available for developer collaboration and exciting project opportunities</text>
+</svg>

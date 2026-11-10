@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="514" viewBox="0 0 840 514">
+  <rect x="2" y="2" width="836" height="510" rx="28" fill="#eff4f7"/>
+  <circle cx="48" cy="47" r="19" fill="#cee7ef"/>
+  <g transform="translate(48 47)">
+    <path d="M0-17l3.8 11.2L15 0 3.8 3.8 0 15-3.8 3.8-15 0l11.2-5.8z" fill="none" stroke="#004e5d" stroke-width="2.5" stroke-linejoin="round"/><path d="M14-15v7m-3.5-3.5h7M-15 11v6m-3-3h6" stroke="#004e5d" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="80" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#171c1e">What I Bring</text>
+  <text x="30" y="82" font-family="Arial,sans-serif" font-size="13" fill="#52616a">Practical skills, thoughtful execution</text>
+  <rect x="28" y="104" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="123" r="4.5" fill="#004e5d"/>
+  <text x="69" y="129" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Backend system engineering — from schema design to API deployment</text>
+  <rect x="28" y="152" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="171" r="4.5" fill="#004e5d"/>
+  <text x="69" y="177" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Robust RESTful API design following standard REST principles and best practices</text>
+  <rect x="28" y="200" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="219" r="4.5" fill="#004e5d"/>
+  <text x="69" y="225" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Efficient database schema design, query optimization and transaction management</text>
+  <rect x="28" y="248" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="267" r="4.5" fill="#004e5d"/>
+  <text x="69" y="273" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Algorithmic problem-solving ability honed through Baekjoon &amp; Solved.ac</text>
+  <rect x="28" y="296" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="315" r="4.5" fill="#004e5d"/>
+  <text x="69" y="321" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Clean, maintainable code with clear documentation and testability in mind</text>
+  <rect x="28" y="344" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="363" r="4.5" fill="#004e5d"/>
+  <text x="69" y="369" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Full-stack integration connecting backend services with responsive frontends</text>
+  <rect x="28" y="392" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="411" r="4.5" fill="#004e5d"/>
+  <text x="69" y="417" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Containerization with Docker and deployment readiness with Kubernetes</text>
+  <rect x="28" y="440" width="784" height="38" rx="12" fill="#e4e9eb"/>
+  <circle cx="51" cy="459" r="4.5" fill="#004e5d"/>
+  <text x="69" y="465" font-family="Arial,sans-serif" font-size="15" fill="#171c1e">Fast learner adaptable to modern tech stacks and collaborative teams</text>
+</svg>

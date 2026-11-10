@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="142" viewBox="0 0 840 142">
+  <rect x="2" y="2" width="836" height="138" rx="28" fill="#eff4f7"/>
+  <circle cx="48" cy="48" r="19" fill="#cee7ef"/>
+  <g transform="translate(48 48)">
+    <path d="M-16 0s6-10 16-10S16 0 16 0 10 10 0 10-16 0-16 0z" fill="none" stroke="#004e5d" stroke-width="2.5"/><circle r="4.5" fill="none" stroke="#004e5d" stroke-width="2.5"/>
+  </g>
+  <text x="80" y="55" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#171c1e">Profile Visits</text>
+  <text x="30" y="91" font-family="Arial,sans-serif" font-size="13" fill="#52616a">Live visitor counter · Counts profile visits automatically</text>
+</svg>

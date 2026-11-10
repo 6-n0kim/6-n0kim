@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "login": "6-n0kim",
+  "seed": "#00D9FF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stats",
+    "projects",
+    "streak",
+    "wave",
+    "stack",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Backend Developer",
+    "name": "Kim Jun Young",
+    "subtitle": "I build reliable backend systems, web applications and scalable services.",
+    "typing": true,
+    "avatarShape": "rounded",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "SOUTH KOREA"
+      },
+      {
+        "icon": "code",
+        "label": "Java · Spring Boot · Backend"
+      },
+      {
+        "icon": "handshake",
+        "label": "Open to Opportunities"
+      }
+    ]
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "mail",
+        "url": "mailto:1090jun@gmail.com"
+      },
+      {
+        "icon": "mail",
+        "url": "mailto:1090jun@naver.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "about": {
+    "title": "About Me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Backend developer passionate about scalable architecture and clean code"
+      },
+      {
+        "icon": "code",
+        "label": "Solid foundation in Java, Spring Boot, JPA, MySQL and Oracle DB"
+      },
+      {
+        "icon": "terminal",
+        "label": "Practicing problem solving on Baekjoon Online Judge & Solved.ac (@1090jun)"
+      },
+      {
+        "icon": "deployed_code",
+        "label": "Studying cloud and container orchestration with Docker & Kubernetes"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "groups": [
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "icon": "openjdk",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:spring",
+            "label": "Spring Boot"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "icon": "brand:js",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:html",
+            "label": "HTML5"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Database",
+        "items": [
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          },
+          {
+            "icon": "brand:mariadb",
+            "label": "MariaDB"
+          },
+          {
+            "icon": "brand:oracle",
+            "label": "Oracle"
+          }
+        ]
+      },
+      {
+        "title": "DevOps & Tools",
+        "items": [
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:kubernetes",
+            "label": "Kubernetes"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:vscode",
+            "label": "VS Code"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Pin your featured repositories on GitHub to showcase them here.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub Analytics",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Contribution Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All Repositories",
+        "url": "https://github.com/6-n0kim?tab=repositories",
+        "style": "tonal"
+      },
+      {
+        "icon": "arrow_outward",
+        "label": "Portfolio",
+        "url": "https://6-n0kim.github.io/capy",
+        "style": "tonal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="418" viewBox="0 0 840 418">
+  <rect x="2" y="2" width="836" height="414" rx="28" fill="#171c1e"/>
+  <circle cx="48" cy="47" r="19" fill="#004e5d"/>
+  <g transform="translate(48 47)">
+    <circle cx="0" cy="-7" r="7" fill="none" stroke="#aeecff" stroke-width="2.5"/><path d="M-14 13c1-8 7-12 14-12s13 4 14 12" fill="none" stroke="#aeecff" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="80" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#dee3e6">About Me</text>
+  <text x="30" y="82" font-family="Arial,sans-serif" font-size="13" fill="#aab7bd">I’m Kim Jun Young — Backend & Software Developer</text>
+  <rect x="28" y="104" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="123" r="4.5" fill="#aeecff"/>
+  <text x="69" y="129" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Backend developer passionate about scalable architecture and clean code</text>
+  <rect x="28" y="152" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="171" r="4.5" fill="#aeecff"/>
+  <text x="69" y="177" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Solid foundation in Java, Spring Boot, Spring Data JPA, Oracle and MySQL</text>
+  <rect x="28" y="200" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="219" r="4.5" fill="#aeecff"/>
+  <text x="69" y="225" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Experienced in full-stack web development with JavaScript and React</text>
+  <rect x="28" y="248" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="267" r="4.5" fill="#aeecff"/>
+  <text x="69" y="273" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Active problem solver on Baekjoon Online Judge &amp; Solved.ac (@1090jun)</text>
+  <rect x="28" y="296" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="315" r="4.5" fill="#aeecff"/>
+  <text x="69" y="321" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Studying cloud architecture and container orchestration with Docker &amp; Kubernetes</text>
+  <rect x="28" y="344" width="784" height="38" rx="12" fill="#252b2d"/>
+  <circle cx="51" cy="363" r="4.5" fill="#aeecff"/>
+  <text x="69" y="369" font-family="Arial,sans-serif" font-size="15" fill="#dee3e6">Committed to building maintainable, high-performance and secure REST APIs</text>
+</svg>
