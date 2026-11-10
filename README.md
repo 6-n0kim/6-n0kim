@@ -4,7 +4,7 @@
   <!-- 1. 히어로 배너 (다크 / 라이트 모드 대응) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/hero-dark.svg">
-    <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/hero-light.svg" width="100%" alt="내 이름 — 역할">
+    <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/hero-light.svg" width="100%" alt="6-n0kim — AI developer">
   </picture>
 
   <!-- 2. 소셜 / 연락처 뱃지 -->
