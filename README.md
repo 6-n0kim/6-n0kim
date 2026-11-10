@@ -1,49 +1,28 @@
-<!-- Design inspired by @ryoaonetsuki (https://github.com/ryoaonetsuki/ryoaonetsuki) -->
-<div align="center">
+<div class="Box-body tmp-p-4">
+    <div class="d-flex flex-justify-between">
+      <div class="text-mono text-small tmp-mb-3">
+        <a href="/ryoaonetsuki/ryoaonetsuki" class="no-underline Link--primary">ryoaonetsuki</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+      </div>
 
-  <!-- 1. 히어로 배너 (다크 / 라이트 모드 대응) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/hero-dark.svg">
-    <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/hero-light.svg" width="100%" alt="내 이름 — 역할">
-  </picture>
-
-  <!-- 2. 소셜 / 연락처 뱃지 -->
-  <p>
-    <a href="내_링크_1">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/contact-telegram-profile-dark.svg">
-        <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/contact-telegram-profile-light.svg" width="42%" alt="Contact 1">
-      </picture>
-    </a>
-    &nbsp;&nbsp;
-    <a href="내_링크_2">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/contact-telegram-channel-dark.svg">
-        <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/contact-telegram-channel-light.svg" width="42%" alt="Contact 2">
-      </picture>
-    </a>
-  </p>
-
-  <!-- 3. 소개 섹션 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/profile-assets/premium-about-dark.svg">
-    <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/profile-assets/premium-about-light.svg" width="100%" alt="About Me">
-  </picture>
-
-  <!-- 4. 기술 스택 섹션 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/tech-stack-dark.svg">
-    <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/tech-stack-light.svg" width="100%" alt="Tech Stack">
-  </picture>
-
-  <!-- 5. 방문자 카운터 (내 GitHub 아이디로 변경 필수) -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=본인_깃허브_아이디&label=VISITORS&color=00D9FF&style=for-the-badge" alt="GitHub Profile Visitors">
-  </p>
-
+    </div>
+    <article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center" dir="auto">
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/assets/hero-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/assets/hero-light.svg" width="100%" alt="Salman Biswas — Software Developer" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><a href="https://t.me/ryoaonetsuki" rel="nofollow"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/contact-telegram-profile-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/contact-telegram-profile-light.svg" width="42%" alt="Telegram Profile" style="visibility: visible; max-width: 100%;"></picture></themed-picture></a>&nbsp;&nbsp;<a href="https://t.me/aonetsukiarchive" rel="nofollow"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/contact-telegram-channel-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/contact-telegram-channel-light.svg" width="42%" alt="Telegram Channel" style="visibility: visible; max-width: 100%;"></picture></themed-picture></a></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-about-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-about-light.svg" width="100%" alt="About Me" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/assets/stats-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/assets/stats-light.svg" width="100%" alt="GitHub Analytics" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/assets/streak-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/assets/streak-light.svg" width="100%" alt="Contribution Streak" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/tech-stack-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/tech-stack-light.svg" width="100%" alt="Tech Stack" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-bring-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-bring-light.svg" width="100%" alt="What I Bring" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-focus-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-focus-light.svg" width="100%" alt="Professional Focus" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-connect-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-connect-light.svg" width="100%" alt="Connect With Me" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-opportunities-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-opportunities-light.svg" width="100%" alt="Open to Opportunities" style="visibility: visible; max-width: 100%;"></picture></themed-picture></p>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-visitor-counter-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-visitor-counter-light.svg" width="100%" alt="Live Profile Visits" style="visibility: visible; max-width: 100%;"></picture></themed-picture>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2dba785d12b685165b9fc13c5230eee69077c16f711bbd46ff4fc20fe18151ca/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d72796f616f6e657473756b69266c6162656c3d56495349544f525326636f6c6f723d303044394646267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/2dba785d12b685165b9fc13c5230eee69077c16f711bbd46ff4fc20fe18151ca/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d72796f616f6e657473756b69266c6162656c3d56495349544f525326636f6c6f723d303044394646267374796c653d666f722d7468652d6261646765" alt="Live GitHub profile visitor counter" data-canonical-src="https://komarev.com/ghpvc/?username=ryoaonetsuki&amp;label=VISITORS&amp;color=00D9FF&amp;style=for-the-badge" style="max-width: 100%;"></a></p>
 </div>
-
----
-
-## ☕ Credits
-* Profile layout & SVG assets inspired by [@ryoaonetsuki](https://github.com/ryoaonetsuki).
+<div align="center" dir="auto">
+<a href="https://github.com/ryoaonetsuki?tab=repositories"><themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-repositories-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-repositories-light.svg" width="42%" alt="All Repositories" style="visibility: visible; max-width: 100%;"></picture></themed-picture></a>
+&nbsp;&nbsp;
+<themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture><source media="(prefers-color-scheme: dark)" srcset="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-portfolio-dark.svg"><img src="/ryoaonetsuki/ryoaonetsuki/raw/main/profile-assets/premium-portfolio-light.svg" width="42%" alt="Portfolio — add your URL later" style="visibility: visible; max-width: 100%;"></picture></themed-picture>
+</div>
+</article>
+  </div>
