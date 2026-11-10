@@ -1,5 +1,30 @@
-import { writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { join } from "node:path";
 
+// 1. Sanitize hero SVGs (remove any clipped typewriter bounding boxes)
+function sanitizeHero(filePath, isDark) {
+  if (!existsSync(filePath)) return;
+  let svg = readFileSync(filePath, "utf8");
+  const textColor = isDark ? "#bfc8cb" : "#3f484b";
+  const accentColor = isDark ? "#85d2e8" : "#00687b";
+  const p1 = svg.indexOf('<clipPath id="tc0"');
+  const p2 = svg.indexOf('<g class="pop"', p1);
+  if (p1 !== -1 && p2 !== -1) {
+    const replacement = `<g class="up" style="animation-delay:0.30s">
+  <text x="294.0" y="194.0" fill="${textColor}" text-anchor="start" style="font-size:18px;font-weight:400;">풀스택 웹 애플리케이션과 AI 기반 도구를 개발합니다.</text>
+  <text x="294.0" y="220.0" fill="${accentColor}" text-anchor="start" style="font-size:16px;font-weight:500;">Full-Stack Web Applications &amp; AI Tools</text>
+</g>
+`;
+    svg = svg.slice(0, p1) + replacement + svg.slice(p2);
+    writeFileSync(filePath, svg);
+    console.log(`Sanitized ${filePath}`);
+  }
+}
+
+sanitizeHero("assets/hero-dark.svg", true);
+sanitizeHero("assets/hero-light.svg", false);
+
+// 2. Write Korean README.md
 const lines = [
   '<div align="center">',
   '',
@@ -65,4 +90,4 @@ const lines = [
 ];
 
 writeFileSync("README.md", lines.join("\n"));
-console.log("README.md post-rendered successfully in Korean.");
+console.log("README.md and Hero SVGs post-rendered successfully.");
