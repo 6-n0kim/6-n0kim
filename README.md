@@ -1,60 +1,27 @@
 <div align="center">
 
-<!-- 1. 히어로 배너 (Hero Banner) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Junyoung Kim — Full-Stack · AI Developer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Full-Stack · AI Developer Junyoung Kim"></picture>
 
-<!-- 2. 연락처 배지 (Contacts / Badges) -->
-<a href="mailto:1090jun@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-gmail-dark.svg"><img src="contact-gmail-light.svg" width="42%" alt="Gmail 주소"></picture></a>&nbsp;&nbsp;<a href="mailto:1090jun@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-naver-dark.svg"><img src="contact-naver-light.svg" width="42%" alt="네이버 메일"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="40.476%" alt=""></picture><a href="mailto:1090jun@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="9.523%" alt="mail"></picture></a><a href="mailto:1090jun@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="9.523%" alt="mail"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="40.476%" alt=""></picture>
 
-<!-- 3. 소개 섹션 (About Me) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-about-dark.svg"><img src="./profile-assets/premium-about-light.svg" width="100%" alt="소개 (About Me)"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="소개 (About Me)"></picture>
 
-<!-- 4. 깃허브 통계 (GitHub Stats) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub Analytics"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub 통계 (GitHub Analytics)"></picture>
 
-<!-- 5. 연속 커밋 잔디 (Contribution Streak) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Contribution Streak"></picture>
+<a href="https://github.com/jeongeunni/bodymanager_server_real"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bodymanager-server-real-dark.svg"><img src="assets/project-bodymanager-server-real-light.svg" width="49%" alt="bodymanager_server_real"></picture></a>&nbsp;<a href="https://github.com/snowone4426/Body_Manager_server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-body-manager-server-dark.svg"><img src="assets/project-body-manager-server-light.svg" width="49%" alt="Body_Manager_server"></picture></a>
 
-<!-- 6. 기술 스택 (Tech Stack) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./tech-stack-dark.svg"><img src="./tech-stack-light.svg" width="100%" alt="기술 스택 (Tech Stack)"></picture>
+<a href="https://github.com/6-n0kim/on_spot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-on-spot-dark.svg"><img src="assets/project-on-spot-light.svg" width="49%" alt="on_spot"></picture></a>&nbsp;<a href="https://github.com/6-n0kim/BaekJoon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-baekjoon-dark.svg"><img src="assets/project-baekjoon-light.svg" width="49%" alt="BaekJoon"></picture></a>
 
-<!-- 7. 핵심 역량 (What I Bring) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-bring-dark.svg"><img src="./profile-assets/premium-bring-light.svg" width="100%" alt="핵심 역량 (What I Bring)"></picture>
+<a href="https://github.com/6-n0kim/docker-pro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-docker-pro-dark.svg"><img src="assets/project-docker-pro-light.svg" width="49%" alt="docker-pro"></picture></a>&nbsp;<a href="https://github.com/6-n0kim/lol.gg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lol-gg-dark.svg"><img src="assets/project-lol-gg-light.svg" width="49%" alt="lol.gg"></picture></a>
 
-<!-- 8. 전문 분야 & 관심사 (Professional Focus) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-focus-dark.svg"><img src="./profile-assets/premium-focus-light.svg" width="100%" alt="전문 분야 (Professional Focus)"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="연속 커밋 (Contribution Streak)"></picture>
 
-<!-- 9. 연락처 채널 (Connect With Me) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-connect-dark.svg"><img src="./profile-assets/premium-connect-light.svg" width="100%" alt="연락처 &amp; 채널 (Connect With Me)"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<!-- 10. 협업 & 기회 (Open to Opportunities) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-opportunities-dark.svg"><img src="./profile-assets/premium-opportunities-light.svg" width="100%" alt="협업 &amp; 기회 (Open to Opportunities)"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="기술 스택 (Tech Stack)"></picture>
 
-<!-- 11. 프로필 방문자 수 (Profile Visits) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-visitor-counter-dark.svg"><img src="./profile-assets/premium-visitor-counter-light.svg" width="100%" alt="방문자 수 (Profile Visits)"></picture>
-<img src="https://komarev.com/ghpvc/?username=6-n0kim&amp;label=VISITORS&amp;color=00D9FF&amp;style=for-the-badge" alt="실시간 방문자 수">
+<a href="https://github.com/6-n0kim?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="전체 레포지토리"></picture></a>&nbsp;&nbsp;<a href="https://6-n0kim.github.io/capy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="포트폴리오"></picture></a>
 
-</div>
+<a href="https://metawka.github.io/expressive-profile/?from=6-n0kim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-<div align="center">
-<!-- 12. 바로가기 링크 버튼 (Quick Action Links) -->
-<a href="https://github.com/6-n0kim?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-repositories-dark.svg"><img src="./profile-assets/premium-repositories-light.svg" width="31%" alt="전체 레포지토리"></picture></a>
-&nbsp;
-<a href="https://6-n0kim.github.io/capy"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-portfolio-dark.svg"><img src="./profile-assets/premium-portfolio-light.svg" width="31%" alt="포트폴리오"></picture></a>
-&nbsp;
-<a href="https://solved.ac/1090jun/"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-solvedac-dark.svg"><img src="./profile-assets/premium-solvedac-light.svg" width="31%" alt="Solved.ac 프로필"></picture></a>
-</div>
-
-<div align="center">
-<p align="center">
-  <a href="https://solved.ac/1090jun/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1090jun" alt="Solved.ac 티어 뱃지" />
-  </a>
-</p>
-</div>
-
----
-
-<div align="center">
-  <sub>Design inspired by <a href="https://github.com/ryoaonetsuki">@ryoaonetsuki</a></sub>
 </div>
