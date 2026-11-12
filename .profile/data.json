@@ -1,7 +1,7 @@
 {
- "key": "5b8f329e",
+ "key": "fcf76aeb",
  "stars": 5,
- "contributions": 104,
+ "contributions": 105,
  "repos": 34,
  "followers": 3,
  "languages": [
@@ -15,7 +15,7 @@
   ],
   [
    "JavaScript",
-   396368
+   399756
   ],
   [
    "CSS",
@@ -121,11 +121,15 @@
     "today": false
    },
    {
-    "c": 7,
+    "c": 8,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null

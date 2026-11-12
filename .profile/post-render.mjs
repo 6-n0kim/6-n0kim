@@ -21,8 +21,44 @@ function sanitizeHero(filePath, isDark) {
   }
 }
 
+// 1-1. Re-size hero chips. The generator underestimates the width of Korean
+// glyphs, so labels overflow their background rect. Recompute each chip's width
+// with a conservative estimate and re-flow the chips left to right.
+function estimateTextWidth(label, fontSize) {
+  let w = 0;
+  for (const ch of label) {
+    if (/[ᄀ-ᇿ㄰-㆏가-힯　-鿿]/.test(ch)) w += 1.0;
+    else if (/[A-Z0-9]/.test(ch)) w += 0.68;
+    else if (/[a-z]/.test(ch)) w += 0.56;
+    else if (ch === " ") w += 0.3;
+    else w += 0.4;
+  }
+  return w * fontSize;
+}
+
+function fixHeroChips(filePath) {
+  if (!existsSync(filePath)) return;
+  let svg = readFileSync(filePath, "utf8");
+  const chipRe =
+    /(<g class="pop"[^>]*>\s*<rect x=")([\d.]+)(" y="[\d.]+" width=")([\d.]+)("[^>]*\/>\s*<path [^>]*?transform="translate\()([\d.]+)( [\d.]+\) scale\([\d.]+\)"\s*\/>\s*<text x=")([\d.]+)("[^>]*font-size:([\d.]+)px[^>]*>)([^<]*)(<\/text>)/g;
+  let cursor = null;
+  const GAP = 8, ICON_PAD = 14, TEXT_PAD = 40, RIGHT_PAD = 16;
+  svg = svg.replace(chipRe, (m, a, x, b, _w, c, _ix, d, _tx, e, fs, label, f) => {
+    const start = cursor ?? parseFloat(x);
+    const text = label.replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">");
+    const width = TEXT_PAD + estimateTextWidth(text, parseFloat(fs)) + RIGHT_PAD;
+    cursor = start + width + GAP;
+    const r = (n) => n.toFixed(1);
+    return a + r(start) + b + r(width) + c + r(start + ICON_PAD) + d + r(start + TEXT_PAD) + e + label + f;
+  });
+  writeFileSync(filePath, svg);
+  console.log(`Re-sized hero chips in ${filePath}`);
+}
+
 sanitizeHero("assets/hero-dark.svg", true);
 sanitizeHero("assets/hero-light.svg", false);
+fixHeroChips("assets/hero-dark.svg");
+fixHeroChips("assets/hero-light.svg");
 
 // 2. Write Korean README.md
 const lines = [
