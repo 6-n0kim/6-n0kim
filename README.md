@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. 히어로 배너 (Hero Banner) -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Junyoung Kim — Full-Stack · AI Developer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Junyoung Kim — AI Developer · Python"></picture>
 
 <!-- 2. 연락처 배지 (Contacts / Badges) -->
 <a href="mailto:1090jun@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-gmail-dark.svg"><img src="contact-gmail-light.svg" width="42%" alt="Gmail 주소"></picture></a>&nbsp;&nbsp;<a href="mailto:1090jun@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-naver-dark.svg"><img src="contact-naver-light.svg" width="42%" alt="네이버 메일"></picture></a>
