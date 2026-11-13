@@ -39,20 +39,34 @@ function estimateTextWidth(label, fontSize) {
 function fixHeroChips(filePath) {
   if (!existsSync(filePath)) return;
   let svg = readFileSync(filePath, "utf8");
-  const chipRe =
-    /(<g class="pop"[^>]*>\s*<rect x=")([\d.]+)(" y="[\d.]+" width=")([\d.]+)("[^>]*\/>\s*<path [^>]*?transform="translate\()([\d.]+)( [\d.]+\) scale\([\d.]+\)"\s*\/>\s*<text x=")([\d.]+)("[^>]*font-size:([\d.]+)px[^>]*>)([^<]*)(<\/text>)/g;
+  const canvasWidth = parseFloat((svg.match(/viewBox="0 0 ([\d.]+) /) || [])[1] || "840");
+  // One chip = <g class="pop"> <rect/> [<path icon/>] <text>label</text> </g>.
+  // The icon is optional: the generator drops it when the icon name is unknown.
+  const chipRe = /<g class="pop"[^>]*>\s*<rect [^>]*\/>\s*(?:<path [^>]*\/>\s*)?<text [^>]*>[^<]*<\/text>\s*<\/g>/g;
   let cursor = null;
-  const GAP = 8, ICON_PAD = 14, TEXT_PAD = 40, RIGHT_PAD = 16;
-  svg = svg.replace(chipRe, (m, a, x, b, _w, c, _ix, d, _tx, e, fs, label, f) => {
-    const start = cursor ?? parseFloat(x);
+  const GAP = 8, ICON_PAD = 14, TEXT_PAD = 40, NO_ICON_PAD = 16, RIGHT_PAD = 16;
+  const r = (n) => n.toFixed(1);
+  svg = svg.replace(chipRe, (chip) => {
+    const rectX = parseFloat(chip.match(/<rect x="([\d.]+)"/)[1]);
+    const fs = parseFloat((chip.match(/font-size:([\d.]+)px/) || [])[1] || "15");
+    const label = chip.match(/<text [^>]*>([^<]*)<\/text>/)[1];
+    const hasIcon = /<path /.test(chip);
     const text = label.replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">");
-    const width = TEXT_PAD + estimateTextWidth(text, parseFloat(fs)) + RIGHT_PAD;
+    const start = cursor ?? rectX;
+    const textX = start + (hasIcon ? TEXT_PAD : NO_ICON_PAD);
+    const width = textX - start + estimateTextWidth(text, fs) + RIGHT_PAD;
     cursor = start + width + GAP;
-    const r = (n) => n.toFixed(1);
-    return a + r(start) + b + r(width) + c + r(start + ICON_PAD) + d + r(start + TEXT_PAD) + e + label + f;
+    return chip
+      .replace(/(<rect x=")[\d.]+(" y="[\d.]+" width=")[\d.]+/, `$1${r(start)}$2${r(width)}`)
+      .replace(/(transform="translate\()[\d.]+/, `$1${r(start + ICON_PAD)}`)
+      .replace(/(<text x=")[\d.]+/, `$1${r(textX)}`);
   });
   writeFileSync(filePath, svg);
-  console.log(`Re-sized hero chips in ${filePath}`);
+  const right = cursor === null ? 0 : cursor - GAP;
+  if (right > canvasWidth - 16) {
+    console.warn(`WARNING: hero chips end at x=${r(right)}, past the ${canvasWidth}px card. Shorten chip labels in profile.json.`);
+  }
+  console.log(`Re-sized hero chips in ${filePath} (row ends at x=${r(right)})`);
 }
 
 sanitizeHero("assets/hero-dark.svg", true);

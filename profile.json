@@ -27,14 +27,14 @@
     "chips": [
       {
         "icon": "location_on",
-        "label": "대한민국 (KOREA)"
+        "label": "대한민국"
       },
       {
         "icon": "code",
         "label": "AI · Python · LLM"
       },
       {
-        "icon": "handshake",
+        "icon": "group",
         "label": "개발 주제 제안 환영"
       }
     ]
