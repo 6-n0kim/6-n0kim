@@ -6,23 +6,23 @@
   </g>
   <text x="80" y="54" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="24" font-weight="700" fill="#171c1e">기술 스택 (Tech Stack)</text>
 
-  <text x="34" y="112" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">백엔드 (BACKEND)</text>
+  <text x="34" y="112" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">AI · LLM</text>
   <rect x="28" y="126" width="784" height="48" rx="15" fill="#e4e9eb"/>
-  <text x="48" y="157" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">Java  ·  Spring  ·  Spring Boot  ·  Python</text>
+  <text x="48" y="157" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">Python  ·  LangChain  ·  LangGraph  ·  CrewAI  ·  RAG (FAISS)  ·  OpenAI · Claude · NIM</text>
 
-  <text x="34" y="206" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">프론트엔드 (FRONTEND)</text>
+  <text x="34" y="206" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">데이터 (DATA)</text>
   <rect x="28" y="220" width="784" height="48" rx="15" fill="#e4e9eb"/>
-  <text x="48" y="251" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">JavaScript  ·  React  ·  HTML5  ·  CSS3</text>
+  <text x="48" y="251" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">pandas  ·  scikit-learn  ·  FinanceDataReader  ·  BeautifulSoup  ·  APScheduler</text>
 
-  <text x="34" y="300" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">데이터베이스 (DATABASE)</text>
+  <text x="34" y="300" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">백엔드 (BACKEND)</text>
   <rect x="28" y="314" width="784" height="48" rx="15" fill="#e4e9eb"/>
-  <text x="48" y="345" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">MySQL  ·  MariaDB  ·  Oracle Database</text>
+  <text x="48" y="345" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">FastAPI  ·  SQLAlchemy  ·  Pydantic  ·  PostgreSQL  ·  MongoDB  ·  Java · Spring</text>
 
-  <text x="34" y="394" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">인공지능 &amp; 개발 도구 (AI &amp; TOOLS)</text>
+  <text x="34" y="394" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">프론트엔드 (FRONTEND)</text>
   <rect x="28" y="408" width="784" height="48" rx="15" fill="#e4e9eb"/>
-  <text x="48" y="439" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">AI-Assisted Dev  ·  Prompt Engineering  ·  Docker  ·  Git  ·  VS Code</text>
+  <text x="48" y="439" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">TypeScript  ·  React  ·  Vite  ·  Next.js  ·  Tailwind CSS</text>
 
-  <text x="34" y="488" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">알고리즘 &amp; 문제 해결 (PROBLEM SOLVING)</text>
+  <text x="34" y="488" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#52616a">배포 &amp; 도구 (DEPLOY &amp; TOOLS)</text>
   <rect x="28" y="502" width="784" height="48" rx="15" fill="#e4e9eb"/>
-  <text x="48" y="533" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">Baekjoon Online Judge  ·  Solved.ac (@1090jun)</text>
+  <text x="48" y="533" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="16.5" fill="#171c1e">GitHub Actions  ·  Cloudflare  ·  Docker  ·  Git  ·  AI-Assisted Dev</text>
 </svg>

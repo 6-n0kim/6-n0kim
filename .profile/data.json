@@ -266,16 +266,16 @@
   {
    "name": "stock_test",
    "url": "https://github.com/6-n0kim/stock_test",
-   "text": "한국 상장 주식 분석 웹 서비스(테스트)",
+   "text": "한국 상장 주식 분석 웹 서비스(Private로 이관)",
    "fork": false,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "Python",
    "topics": []
   },
   {
    "name": "news",
    "url": "https://github.com/6-n0kim/news",
-   "text": "?",
+   "text": "한국 상장 주식 관련 뉴스 RSS 수집 및 모델 분석",
    "fork": false,
    "stars": 0,
    "language": "Python",

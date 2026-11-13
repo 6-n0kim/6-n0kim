@@ -19,9 +19,9 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Full-Stack · AI Developer",
+    "greeting": "AI Developer · Python",
     "name": "Junyoung Kim",
-    "subtitle": "풀스택 웹 애플리케이션과 AI 기반 도구를 개발합니다.",
+    "subtitle": "Python과 LLM으로 데이터를 읽고, 추천하고, 자동화합니다.",
     "typing": false,
     "avatarShape": "rounded",
     "chips": [
@@ -31,7 +31,7 @@
       },
       {
         "icon": "code",
-        "label": "Full-Stack · AI Development"
+        "label": "AI · Python · LLM"
       },
       {
         "icon": "handshake",
@@ -59,19 +59,27 @@
     "items": [
       {
         "icon": "person",
-        "label": "아이디어를 실현 가능한 풀스택 웹 애플리케이션과 AI 프로덕트로 개발합니다."
-      },
-      {
-        "icon": "code",
-        "label": "Java, Spring Boot 백엔드 및 React, JavaScript 프론트엔드 풀스택 역량"
+        "label": "Java·Spring 백엔드 개발자로 시작해, 지금은 Python으로 AI·데이터 서비스를 만듭니다."
       },
       {
         "icon": "auto_awesome",
-        "label": "AI 보조 개발(AI-Assisted Dev), 프롬프트 엔지니어링 및 빠른 프로토타이핑"
+        "label": "LLM으로 자연어 의도를 해석해 추천·요약·에이전트 기능을 구현합니다."
+      },
+      {
+        "icon": "monitoring",
+        "label": "증권 API 실시간 수집과 백테스트로 가설을 검증하는 Python 퀀트 리서치를 하고 있습니다."
+      },
+      {
+        "icon": "deployed_code",
+        "label": "FastAPI 백엔드부터 React·TypeScript 화면, 배포·운영까지 혼자 끝까지 만듭니다."
       },
       {
         "icon": "terminal",
-        "label": "백준(BOJ) 및 Solved.ac(@1090jun) 알고리즘 문제 해결 훈련"
+        "label": "최근 작업: AI 영화·애니 추천, 주식 조건매매·백테스트 웹앱, 청약 일정 캘린더, 웹 도구 모음"
+      },
+      {
+        "icon": "group",
+        "label": "팀 프로젝트: AI 여행 일정 추천(FAISS RAG·SASRec), AI 문서 자동 생성, 웹캠 자세 교정"
       }
     ]
   },
@@ -79,19 +87,73 @@
     "title": "기술 스택 (Tech Stack)",
     "groups": [
       {
-        "title": "백엔드 (Backend)",
+        "title": "AI · LLM",
         "items": [
-          {
-            "icon": "openjdk",
-            "label": "Java"
-          },
-          {
-            "icon": "brand:spring",
-            "label": "Spring Boot"
-          },
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "auto_awesome",
+            "label": "LangChain"
+          },
+          {
+            "icon": "auto_awesome",
+            "label": "LangGraph"
+          },
+          {
+            "icon": "auto_awesome",
+            "label": "CrewAI"
+          },
+          {
+            "icon": "auto_awesome",
+            "label": "RAG (FAISS)"
+          }
+        ]
+      },
+      {
+        "title": "데이터 (Data)",
+        "items": [
+          {
+            "icon": "monitoring",
+            "label": "pandas"
+          },
+          {
+            "icon": "monitoring",
+            "label": "scikit-learn"
+          },
+          {
+            "icon": "monitoring",
+            "label": "BeautifulSoup"
+          },
+          {
+            "icon": "monitoring",
+            "label": "APScheduler"
+          }
+        ]
+      },
+      {
+        "title": "백엔드 (Backend)",
+        "items": [
+          {
+            "icon": "code",
+            "label": "FastAPI"
+          },
+          {
+            "icon": "code",
+            "label": "SQLAlchemy"
+          },
+          {
+            "icon": "code",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "code",
+            "label": "MongoDB"
+          },
+          {
+            "icon": "openjdk",
+            "label": "Java · Spring"
           }
         ]
       },
@@ -99,46 +161,33 @@
         "title": "프론트엔드 (Frontend)",
         "items": [
           {
-            "icon": "brand:js",
-            "label": "JavaScript"
+            "icon": "brand:typescript",
+            "label": "TypeScript"
           },
           {
             "icon": "brand:react",
             "label": "React"
           },
           {
-            "icon": "brand:html",
-            "label": "HTML5"
+            "icon": "code",
+            "label": "Next.js"
           },
           {
-            "icon": "brand:css",
-            "label": "CSS3"
+            "icon": "code",
+            "label": "Tailwind CSS"
           }
         ]
       },
       {
-        "title": "데이터베이스 (Database)",
+        "title": "배포 & 도구 (Deploy & Tools)",
         "items": [
           {
-            "icon": "brand:mysql",
-            "label": "MySQL"
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
           },
           {
-            "icon": "brand:mariadb",
-            "label": "MariaDB"
-          },
-          {
-            "icon": "brand:oracle",
-            "label": "Oracle"
-          }
-        ]
-      },
-      {
-        "title": "인공지능 & 도구 (AI & Tools)",
-        "items": [
-          {
-            "icon": "auto_awesome",
-            "label": "AI-Assisted Dev"
+            "icon": "deployed_code",
+            "label": "Cloudflare"
           },
           {
             "icon": "brand:docker",
@@ -147,10 +196,6 @@
           {
             "icon": "brand:git",
             "label": "Git"
-          },
-          {
-            "icon": "brand:vscode",
-            "label": "VS Code"
           }
         ]
       }

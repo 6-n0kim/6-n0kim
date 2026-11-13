@@ -1,36 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="562" viewBox="0 0 840 562">
-  <rect x="2" y="2" width="836" height="558" rx="28" fill="#171c1e"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="418" viewBox="0 0 840 418">
+  <rect x="2" y="2" width="836" height="414" rx="28" fill="#171c1e"/>
   <circle cx="48" cy="47" r="19" fill="#004e5d"/>
   <g transform="translate(48 47)">
     <circle r="14" fill="none" stroke="#aeecff" stroke-width="2.5"/><circle r="7" fill="none" stroke="#aeecff" stroke-width="2.5"/><circle r="2.5" fill="#aeecff"/>
   </g>
   <text x="80" y="54" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="24" font-weight="700" fill="#dee3e6">전문 분야 &amp; 관심사 (Professional Focus)</text>
-  <text x="30" y="82" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" fill="#aab7bd">이러한 프로젝트와 기술 분야에 열정을 쏟고 있습니다</text>
+  <text x="30" y="82" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" fill="#aab7bd">요즘 가장 많은 시간을 쓰고 있는 분야입니다</text>
   <rect x="28" y="104" width="784" height="38" rx="12" fill="#252b2d"/>
   <circle cx="51" cy="123" r="4.5" fill="#aeecff"/>
-  <text x="69" y="129" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">엔터프라이즈 풀스택 웹 애플리케이션 및 SaaS 플랫폼 개발</text>
+  <text x="69" y="129" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">LLM 기반 추천·검색 — 자연어 질의를 조건으로 바꾸고, 후보를 골라 이유까지 설명하는 AI</text>
   <rect x="28" y="152" width="784" height="38" rx="12" fill="#252b2d"/>
   <circle cx="51" cy="171" r="4.5" fill="#aeecff"/>
-  <text x="69" y="177" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">생성형 AI 모델 및 최신 LLM API를 접목한 지능형 서비스 구현</text>
+  <text x="69" y="177" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">AI 에이전트와 RAG — 도구 호출, 웹 검색, 벡터 검색을 결합한 질의응답</text>
   <rect x="28" y="200" width="784" height="38" rx="12" fill="#252b2d"/>
   <circle cx="51" cy="219" r="4.5" fill="#aeecff"/>
-  <text x="69" y="225" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">AI 보조 개발, 프롬프트 엔지니어링 및 개발 워크플로우 자동화</text>
+  <text x="69" y="225" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">금융 데이터 분석과 퀀트 리서치 — 수급·체결 데이터 수집, 백테스트, 모델링</text>
   <rect x="28" y="248" width="784" height="38" rx="12" fill="#252b2d"/>
   <circle cx="51" cy="267" r="4.5" fill="#aeecff"/>
-  <text x="69" y="273" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">안전하고 확장 가능한 RESTful API 설계 및 인증/보안 아키텍처</text>
+  <text x="69" y="273" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">설명 가능한 AI — 판단 근거를 함께 보여주고 안전 규칙으로 출력을 검증하는 서비스</text>
   <rect x="28" y="296" width="784" height="38" rx="12" fill="#252b2d"/>
   <circle cx="51" cy="315" r="4.5" fill="#aeecff"/>
-  <text x="69" y="321" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">관리자 대시보드, 업무 자동화 도구 및 실무 중심의 생산성 프로덕트</text>
+  <text x="69" y="321" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">자동화 봇 — GitHub Actions·스케줄러로 매일 도는 수집·요약·알림 파이프라인</text>
   <rect x="28" y="344" width="784" height="38" rx="12" fill="#252b2d"/>
   <circle cx="51" cy="363" r="4.5" fill="#aeecff"/>
-  <text x="69" y="369" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">데이터베이스 튜닝, 쿼리 최적화 및 안정적인 데이터 파이프라인 구축</text>
-  <rect x="28" y="392" width="784" height="38" rx="12" fill="#252b2d"/>
-  <circle cx="51" cy="411" r="4.5" fill="#aeecff"/>
-  <text x="69" y="417" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">Docker 및 Kubernetes를 활용한 컨테이너 가상화와 마이크로서비스 설계</text>
-  <rect x="28" y="440" width="784" height="38" rx="12" fill="#252b2d"/>
-  <circle cx="51" cy="459" r="4.5" fill="#aeecff"/>
-  <text x="69" y="465" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">React 및 모던 웹 기술을 활용한 반응형 프론트엔드 인터페이스 개발</text>
-  <rect x="28" y="488" width="784" height="38" rx="12" fill="#252b2d"/>
-  <circle cx="51" cy="507" r="4.5" fill="#aeecff"/>
-  <text x="69" y="513" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">새로운 기술 연구, 오픈소스 기여 및 바이브 코딩(Vibe Coding) 실천</text>
+  <text x="69" y="369" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#dee3e6">바로 쓰이는 웹 서비스 — 작은 불편을 빠르게 풀어 실제 사용자에게 내놓는 도구</text>
 </svg>

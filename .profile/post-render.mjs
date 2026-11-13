@@ -11,8 +11,8 @@ function sanitizeHero(filePath, isDark) {
   const p2 = svg.indexOf('<g class="pop"', p1);
   if (p1 !== -1 && p2 !== -1) {
     const replacement = `<g class="up" style="animation-delay:0.30s">
-  <text x="294.0" y="194.0" fill="${textColor}" text-anchor="start" style="font-size:18px;font-weight:400;">풀스택 웹 애플리케이션과 AI 기반 도구를 개발합니다.</text>
-  <text x="294.0" y="220.0" fill="${accentColor}" text-anchor="start" style="font-size:16px;font-weight:500;">Full-Stack Web Applications &amp; AI Tools</text>
+  <text x="294.0" y="194.0" fill="${textColor}" text-anchor="start" style="font-size:18px;font-weight:400;">Python과 LLM으로 데이터를 읽고, 추천하고, 자동화합니다.</text>
+  <text x="294.0" y="220.0" fill="${accentColor}" text-anchor="start" style="font-size:16px;font-weight:500;">AI Developer · Python · LLM · Data</text>
 </g>
 `;
     svg = svg.slice(0, p1) + replacement + svg.slice(p2);
@@ -65,7 +65,7 @@ const lines = [
   '<div align="center">',
   '',
   '<!-- 1. 히어로 배너 (Hero Banner) -->',
-  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Junyoung Kim — Full-Stack · AI Developer"></picture>',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Junyoung Kim — AI Developer · Python"></picture>',
   '',
   '<!-- 2. 연락처 배지 (Contacts / Badges) -->',
   '<a href="mailto:1090jun@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-gmail-dark.svg"><img src="contact-gmail-light.svg" width="42%" alt="Gmail 주소"></picture></a>&nbsp;&nbsp;<a href="mailto:1090jun@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-naver-dark.svg"><img src="contact-naver-light.svg" width="42%" alt="네이버 메일"></picture></a>',

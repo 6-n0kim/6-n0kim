@@ -5,23 +5,23 @@
     <circle cx="0" cy="-7" r="7" fill="none" stroke="#004e5d" stroke-width="2.5"/><path d="M-14 13c1-8 7-12 14-12s13 4 14 12" fill="none" stroke="#004e5d" stroke-width="2.5" stroke-linecap="round"/>
   </g>
   <text x="80" y="54" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="24" font-weight="700" fill="#171c1e">소개 (About Me)</text>
-  <text x="30" y="82" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" fill="#52616a">김준영 (Junyoung Kim) — 풀스택 &amp; AI 개발자</text>
+  <text x="30" y="82" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="13" fill="#52616a">김준영 (Junyoung Kim) — Python 기반 AI 개발자</text>
   <rect x="28" y="104" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="123" r="4.5" fill="#004e5d"/>
-  <text x="69" y="129" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">아이디어를 실현 가능한 풀스택 웹 애플리케이션과 AI 프로덕트로 개발합니다.</text>
+  <text x="69" y="129" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">Java·Spring 백엔드 개발자로 시작해, 지금은 Python으로 AI·데이터 서비스를 만듭니다.</text>
   <rect x="28" y="152" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="171" r="4.5" fill="#004e5d"/>
-  <text x="69" y="177" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">Java, Spring Boot 백엔드 및 React, JavaScript 프론트엔드 전반의 풀스택 개발 역량</text>
+  <text x="69" y="177" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">LLM으로 자연어 의도를 해석해 추천·요약·에이전트 기능을 구현합니다.</text>
   <rect x="28" y="200" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="219" r="4.5" fill="#004e5d"/>
-  <text x="69" y="225" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">AI 보조 개발(AI-Assisted Development), 프롬프트 엔지니어링 및 빠른 프로토타이핑</text>
+  <text x="69" y="225" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">증권 API 실시간 수집과 백테스트로 가설을 검증하는 Python 퀀트 리서치를 하고 있습니다.</text>
   <rect x="28" y="248" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="267" r="4.5" fill="#004e5d"/>
-  <text x="69" y="273" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">신뢰성 높은 데이터베이스 모델링 및 쿼리 튜닝 (MySQL, MariaDB, Oracle Database)</text>
+  <text x="69" y="273" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">FastAPI 백엔드부터 React·TypeScript 화면, 배포·운영까지 혼자 끝까지 만듭니다.</text>
   <rect x="28" y="296" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="315" r="4.5" fill="#004e5d"/>
-  <text x="69" y="321" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">백준(BOJ) 및 Solved.ac(@1090jun)를 통한 체계적인 알고리즘 문제 해결 능력</text>
+  <text x="69" y="321" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">최근 작업: AI 영화·애니 추천, 주식 조건매매·백테스트 웹앱, 청약 일정 캘린더, 웹 도구 모음</text>
   <rect x="28" y="344" width="784" height="38" rx="12" fill="#e4e9eb"/>
   <circle cx="51" cy="363" r="4.5" fill="#004e5d"/>
-  <text x="69" y="369" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">Docker, Kubernetes 등 컨테이너 기반 인프라 학습과 확장성 있는 시스템 구축 지향</text>
+  <text x="69" y="369" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', Roboto, sans-serif" font-size="14.5" fill="#171c1e">팀 프로젝트: AI 여행 일정 추천(FAISS RAG·SASRec), AI 문서 자동 생성, 웹캠 자세 교정</text>
 </svg>
