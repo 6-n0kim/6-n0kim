@@ -1,5 +1,5 @@
 {
- "key": "3fe8a6b3",
+ "key": "16c7bfca",
  "stars": 5,
  "contributions": 105,
  "repos": 34,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "HTML",
-   938324
+   971613
   ],
   [
    "Java",
@@ -19,7 +19,7 @@
   ],
   [
    "CSS",
-   288179
+   289172
   ],
   [
    "TypeScript",
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
@@ -266,16 +270,16 @@
   {
    "name": "stock_test",
    "url": "https://github.com/6-n0kim/stock_test",
-   "text": "한국 상장 주식 분석 웹 서비스(Private로 이관)",
+   "text": "한국 상장 주식 분석 웹 서비스(테스트)",
    "fork": false,
    "stars": 0,
-   "language": "Python",
+   "language": "TypeScript",
    "topics": []
   },
   {
    "name": "news",
    "url": "https://github.com/6-n0kim/news",
-   "text": "한국 상장 주식 관련 뉴스 RSS 수집 및 모델 분석",
+   "text": "?",
    "fork": false,
    "stars": 0,
    "language": "Python",
